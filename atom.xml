@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Programming Antics]]></title>
+  <link href="http://Proxied.github.io/atom.xml" rel="self"/>
+  <link href="http://Proxied.github.io/"/>
+  <updated>2013-05-07T16:49:17-04:00</updated>
+  <id>http://Proxied.github.io/</id>
+  <author>
+    <name><![CDATA[Proxied]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[This is a second post]]></title>
+    <link href="http://Proxied.github.io/blog/2013/05/07/this-is-a-second-post/"/>
+    <updated>2013-05-07T16:21:00-04:00</updated>
+    <id>http://Proxied.github.io/blog/2013/05/07/this-is-a-second-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[This is a post]]></title>
+    <link href="http://Proxied.github.io/blog/2013/05/07/this-is-a-post/"/>
+    <updated>2013-05-07T15:50:00-04:00</updated>
+    <id>http://Proxied.github.io/blog/2013/05/07/this-is-a-post</id>
+    <content type="html"><![CDATA[<p>This is some example post, for reasons of&hellip; nothing.</p>
+]]></content>
+  </entry>
+  
+</feed>
