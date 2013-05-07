@@ -1,20 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://Proxied.github.io/blog/2013/05/07/this-is-a-post/</loc>
-        <lastmod>2013-05-07T15:53:31-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://Proxied.github.io/blog/2013/05/07/this-is-a-second-post/</loc>
-        <lastmod>2013-05-07T16:21:39-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://Proxied.github.io/</loc>
-        <lastmod>2013-05-07T16:21:39-04:00</lastmod>
+        <lastmod>2013-05-07T15:42:01-04:00</lastmod>
     </url>
     <url>
         <loc>http://Proxied.github.io/blog/archives/</loc>
-        <lastmod>2013-05-07T16:21:39-04:00</lastmod>
+        <lastmod>2013-05-07T15:42:01-04:00</lastmod>
     </url>
     <url>
         <loc>http://Proxied.github.io/about/</loc>
